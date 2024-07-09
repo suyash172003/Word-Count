@@ -1,0 +1,5 @@
+Variants of matches() method is used to tell more precisely not test whether 
+the given string matches to a regular expression or not as whenever this
+method is called in itself as matches() or be it matches()
+where here we do pass two arguments that are
+our string and regular expression, the working and output remains same.
